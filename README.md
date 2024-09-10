@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Tech Lead & Solution Architect
 ---------------------------------------
 
-I have been working in a software development for more than 15 years, I possess valuable skills such as confidence and empathy that I believe make me best suited for the position of Software team lead.
+I have been working in a software development for more than 20 years, I possess valuable skills such as confidence and empathy that I believe make me best suited for the position of Software team lead.
 
 *   🌍  I'm based in Cairo-Egypt
 *   ✉️  You can contact me at [ibrahimnasr2000@gmail.com](mailto:ibrahimnasr2000@gmail.com)
